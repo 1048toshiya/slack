@@ -1,2 +1,2 @@
 $ cd botkit
-$ token=REPLACE_THIS_WITH_YOUR_TOKEN node bot.js
+$ token=xoxb-31233833637-2rSfdKNzursFoUuh4JbcLu3k node bot.js
